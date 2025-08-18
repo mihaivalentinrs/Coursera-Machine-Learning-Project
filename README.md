@@ -1,3 +1,1 @@
-# FirstRepoVVM
-First github repo off my latest machine learning project
-
+K-Means Clustering in Python - Detection of Forged Banknotes
